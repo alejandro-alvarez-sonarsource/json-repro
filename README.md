@@ -18,3 +18,7 @@ real_json.json
 I have also tried with a json and a stray comma and it also shows, so it
 is not just "any" malformed json file dissapears. It has to be this specific
 syntax error.
+
+The exception can be seen on the [Analysis
+Logs](https://github.com/alejandro-alvarez-sonarsource/json-repro/actions/workflows/sonarcloud.yml)
+starting at "Exact problem".
