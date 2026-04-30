@@ -1,5 +1,6 @@
-{
-  "name": "trailing-comma",
-  "version": "1.0.0",
-  "active": true,
-}
+INFO: 📊 Pass@k Results:
+INFO:   Pass@1:   0.000
+INFO:   Problems: 3897
+INFO:   Completions per problem: 1-1
+INFO:   Temperature: 1.0
+INFO:   Pass@1:  0.000
