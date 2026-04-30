@@ -1,0 +1,7 @@
+{
+  "name": "json-repro",
+  "version": "1.0.0",
+  "description": "SonarCloud JSON analysis reproduction",
+  "active": true,
+  "count": 42
+}

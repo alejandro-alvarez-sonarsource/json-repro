@@ -1,0 +1,3 @@
+This is just plain text content, not JSON at all.
+It has multiple lines and no structure whatsoever.
+SonarCloud should flag this as an invalid JSON file.
